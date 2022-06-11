@@ -21,6 +21,6 @@ div#third{
 }
 
 div#fourth{
-    background-color:black;
-    color: white;
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
